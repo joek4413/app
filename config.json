@@ -3,7 +3,7 @@
   "panels": [
     {
       "id": "primary",
-      "baseUrl": "https://skyun.men", 
+      "baseUrl": "https://333skyun.men", 
       "userAgent": "skyun/1.1", 
       "updatedAt": "2025-11-20T12:00:10Z"
     }
@@ -11,7 +11,7 @@
   "fallback": {
   "baseUrls": [
     "https://skyun.wang",
-    "https://01.skyun.wang",
+    "https://skyun.men",
     "https://02.skyun.wang"
   ]
 }
