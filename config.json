@@ -9,6 +9,11 @@
     }
   ],
   "fallback": {
-    "baseUrl": "https://skyun.wang" 
-  }
+  "baseUrls": [
+    "https://skyun.wang",
+    "https://01.skyun.wang",
+    "https://02.skyun.wang"
+  ]
+}
+
 } 
