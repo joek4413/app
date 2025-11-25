@@ -5,7 +5,7 @@
         "version": "2.5.9",
         "url": "https://github.com/9seconds/mtg/releases/download/v2.1.7/mtg-2.1.7-linux-arm64.tar.gz",
         "notes": [
-          "【Windows v2.5.8 更新内容】",
+          "【Windows v2.5.9 更新内容】",
           "新增：云备份功能",
           "修复：某些设备启动卡死的问题"
         ],
