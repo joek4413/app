@@ -1,16 +1,43 @@
 {
-  "latest": {
-    "version": "1.0.1",
-    "url": "https://your.cdn.com/skyun/skyun-1.0.1-windows.zip",
-    "notes": [
-        "【v1.0.1 更新内容】",
-         "新增：云备份功能",
-        "修复：某些情况下启动卡死的问题",
-        "优化：减少启动时的内存占用"
-            ],
-    "mandatory": false,
-    "signature": "可选签名/哈希值",
-    "pub_date": "2025-01-01T12:00:00Z"
-  },
-  "min_supported": "1.0.0"  // 小于此版本则强制更新
+  "platforms": {
+    "windows": {
+      "latest": {
+        "version": "1.0.1",
+        "url": "https://your.cdn.com/skyun/skyun-1.0.1-windows.zip",
+        "notes": [
+          "【Windows v1.0.1 更新内容】",
+          "新增：云备份功能",
+          "修复：某些设备启动卡死的问题"
+        ],
+        "mandatory": false,
+        "signature": "3b6e9e845c6b5b5a1e0e4c1ed2fa0f9a8dcdab7d9adf01af6adf06c6b7b97c2",
+        "pub_date": "2025-01-01T12:00:00Z"
+      },
+      "min_supported": "1.0.0"
+    },
+
+    "macos": {
+      "latest": {
+        "version": "0.0.0",
+        "url": "",
+        "notes": [ "暂未提供 macOS 版本" ],
+        "mandatory": false,
+        "signature": "",
+        "pub_date": "1970-01-01T00:00:00Z"
+      },
+      "min_supported": "0.0.0"
+    },
+
+    "linux": {
+      "latest": {
+        "version": "0.0.0",
+        "url": "",
+        "notes": [ "暂未提供 Linux 版本" ],
+        "mandatory": false,
+        "signature": "",
+        "pub_date": "1970-01-01T00:00:00Z"
+      },
+      "min_supported": "0.0.0"
+    }
+  }
 }
