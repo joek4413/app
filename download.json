@@ -1,0 +1,16 @@
+{
+  "latest": {
+    "version": "1.0.1",
+    "url": "https://your.cdn.com/skyun/skyun-1.0.1-windows.zip",
+    "notes": [
+        "【v1.0.1 更新内容】",
+         "新增：云备份功能",
+        "修复：某些情况下启动卡死的问题",
+        "优化：减少启动时的内存占用"
+            ],
+    "mandatory": false,
+    "signature": "可选签名/哈希值",
+    "pub_date": "2025-01-01T12:00:00Z"
+  },
+  "min_supported": "1.0.0"  // 小于此版本则强制更新
+}
