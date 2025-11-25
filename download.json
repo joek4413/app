@@ -6,8 +6,8 @@
         "url": "https://github.com/9seconds/mtg/releases/download/v2.1.7/mtg-2.1.7-linux-arm64.tar.gz",
         "notes": [
           "【Windows v2.5.9 更新内容】",
-          "新增：云备份功能",
-          "修复：某些设备启动卡死的问题"
+          "1、新增：云备份功能",
+          "2、修复：某些设备启动卡死的问题"
         ],
         "mandatory": false,
         "signature": "3b6e9e845c6b5b5a1e0e4c1ed2fa0f9a8dcdab7d9adf01af6adf06c6b7b97c2",
