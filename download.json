@@ -2,7 +2,7 @@
   "platforms": {
     "windows": {
       "latest": {
-        "version": "1.0.1",
+        "version": "1.0.2",
         "url": "https://your.cdn.com/skyun/skyun-1.0.1-windows.zip",
         "notes": [
           "【Windows v1.0.1 更新内容】",
