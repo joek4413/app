@@ -2,7 +2,7 @@
   "platforms": {
     "windows": {
       "latest": {
-        "version": "2.5.8",
+        "version": "2.5.9",
         "url": "https://your.cdn.com/skyun/skyun-1.0.1-windows.zip",
         "notes": [
           "【Windows v2.5.8 更新内容】",
@@ -11,7 +11,7 @@
         ],
         "mandatory": false,
         "signature": "3b6e9e845c6b5b5a1e0e4c1ed2fa0f9a8dcdab7d9adf01af6adf06c6b7b97c2",
-        "pub_date": "2025-01-01T12:00:00Z"
+        "pub_date": "2025-11-01T12:00:00Z"
       },
       "min_supported": "1.0.0"
     },
