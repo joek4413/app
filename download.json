@@ -5,39 +5,15 @@
         "version": "1.0.2",
         "url": "https://github.com/joek4413/app/releases/download/release/hiddify-1.0.1-windows-setup.exe",
         "notes": [
-          "【Windows v1.0.1 更新内容】",
+          "【Windows v1.0.2 更新内容】",
           "1、新增：云备份功能",
           "2、修复：某些设备启动卡死的问题"
         ],
         "mandatory": false,
         "signature": "3b6e9e845c6b5b5a1e0e4c1ed2fa0f9a8dcdab7d9adf01af6adf06c6b7b97c2",
-        "pub_date": "2025-11-01T12:00:00Z"
+        "pubDate": "2025-11-01T12:00:00Z"
       },
-      "min_supported": "1.0.0"
-    },
-
-    "macos": {
-      "latest": {
-        "version": "0.0.0",
-        "url": "",
-        "notes": [ "暂未提供 macOS 版本" ],
-        "mandatory": false,
-        "signature": "",
-        "pub_date": "1970-01-01T00:00:00Z"
-      },
-      "min_supported": "0.0.0"
-    },
-
-    "linux": {
-      "latest": {
-        "version": "0.0.0",
-        "url": "",
-        "notes": [ "暂未提供 Linux 版本" ],
-        "mandatory": false,
-        "signature": "",
-        "pub_date": "1970-01-01T00:00:00Z"
-      },
-      "min_supported": "0.0.0"
+      "minSupported": "1.0.0"
     }
   }
 }
