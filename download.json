@@ -9,11 +9,11 @@
           "1、新增：云备份功能",
           "2、修复：某些设备启动卡死的问题"
         ],
-        "mandatory": false,
+        "mandatory": true,
         "signature": "3b6e9e845c6b5b5a1e0e4c1ed2fa0f9a8dcdab7d9adf01af6adf06c6b7b97c2",
         "pub_date": "2025-11-01T12:00:00Z"
       },
-      "min_supported": "1.0.0"
+      "min_supported": "1.0.1"
     },
 
     "macos": {
