@@ -1,5 +1,8 @@
 {
     "primary": "https://skyun.top",
-    "backup": [],
-    "updated": "2026-03-23 23:06:04"
+    "backup": [
+        "https://www.skyun.top",
+        "https://cdn.skyun.top"
+    ],
+    "updated": "2026-03-23 23:06:44"
 }
